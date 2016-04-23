@@ -1,0 +1,8 @@
+{
+    "accounts": [
+        {"from": "cloud-dev@qq.com", "password": "tbeyoyzcwykgdbbbx", "smtp": "smtp.qq.com", "ssl": true},
+        {"from": "cloud-dev@qq.com", "password": "tbeyoyzcwykgdbbbx", "smtp": "smtp.qq.com", "ssl": true}
+    ],
+    "interval": 2,
+    "offset": 1
+}
